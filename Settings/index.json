@@ -1,0 +1,9 @@
+{
+  "title":"Settings",
+  "favicon":"settings.svg",
+  "file":"settings.html",
+  "screensize":{"x":"505","y":"260"},
+  "fullscreen-supported":"no",
+  "version":"1.0",
+  "required":"yes"
+}
