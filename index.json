@@ -1,0 +1,9 @@
+{
+  "title":"Scratch Cat Clicker",
+  "favicon":"Screenshot_20250213-084654.png",
+  "file":"Scratch Cat Clicker.html",
+  "screensize":{"x":"640","y":"360"},
+  "fullscreen-supported":"no",
+  "version":"1.3.0",
+  "required":"no" 
+}
