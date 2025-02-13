@@ -24,3 +24,4 @@ You also need a ```.json``` index in the following format:
 }
 
 ```
+Apps must be suitable for all ages with no 18+ content of any kind. If something isn't age-appropriate, don't submit it. If you're unsure, submit a PR and we will comment why we can't allow your application.
